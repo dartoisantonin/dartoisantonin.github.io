@@ -1,0 +1,168 @@
+recherche de stage : https://www.figs-lab.com/about#header (UI/UX, Paris 20e)
+https://www.thepixelhunt.com/contact-2 (serious game arte etc, Paris 11e)
+liens :
+cours : https://www.w3schools.com/html/html_colors_hsl.asp
+exercices : https://www.w3schools.com/html/exercise.asp?filename=exercise_html_css4
+
+Structure of each game presentation :
+
+The Team in Alphabetical Order
+Sum up what is it about and how it basically works.
+My role in this project.
+How we designed it, our intentions, our references.
+What did we learn on this project.
+Notes on the final product.
+
+________________________________________
+
+INTRODUCTION
+Welcome to my Portfolio. I am currently a Game Designer student at Supinfogame RUBIKA. During my formation I am working on several projects, some of which I would like to share with you.
+
+Here you will find all types of games, video, role-play, even an alternative controller.
+
+My work has been mainly focusing on game design, creating mechanics, systems, economy, level design and analysis.
+
+I have also some programming knowledge, using Unity and visual studio, but those are not my main skills.
+
+I had a first professional experience as a Quality Assurance tester for Anuman Interactive, a Parisian video game editor working alongside Microids. In the future I would be glad to work on systems, game economies or even monetization. I have an economic background with an Economy diplomat and I was always interested in finance. I am currently documenting myself on the subject, F2P and cosmetics being my main source of study as a growing number of games are now relying on them.
+
+I am currently working on a mobile game as a Lead Game Designer and also Monetization Designer, this project is bringing me a lot of knowledge that I hope will come in handy in a future job.
+
+Thanks for reading and I wish you a good visit !
+
+________________________________________
+
+MISSION HERMES (2017 - 2018) :
+The Team in Alphabetical Order
+Game Designers :
+Chiffoleau Arthur
+Dartois Antonin
+With the participation of Giuliani Thomas
+Game Artists :
+Chesneau Lucien
+Desitter Yohan
+Lamarche Charles
+Sum up what is it about and how it basically works.
+Mission Hermes is a competitive strategy board game in which players exploit martian resources to boost their profits! A dynamic stock exchange system varies selling prices according to the volumes traded on the earthling market. A game round is split into 3 main parts. First, the players interact on Mars by building infrastructures and recovering their resources. In a second time the resources are transported on earth in order to be sold. Finally players can buy shares of various companies, that give them bonuses in addition of bringing them closer to victory. [image ensemble du jeu]
+My role in this project.
+On this game I was the Project Manager, I had to coordinate the game designers and the game artists and organize the game production. The most difficult part has been to maintain good social relations between the different persons in the group as none of us knew each other before, and we all had very differents characters and working disciplines. I learned a lot about communication, not only by communicating myself but also by giving advice to other people, and by collecting their feedbacks about the project, their thoughts and sometimes criticisms. I had to manage the workload, therefore add or cut some mechanics and artworks. The most difficult part was to make sure everyone was on time on its production, if it was not the case we would discuss about it to find a solution and make sure it would not happen again, if there was no time left I would redispatch the workload.
+My second main role in this project was Game Designer. We started with a team of three game designers but due to medical reasons we lost one member very early on in the project. This did not stop us and we managed to finish the whole game. We worked mainly together, taking some notes on the side but mainly focusing on team work. We first decided what universe and what type of game we wanted with the game artists and then we started building a first set of rules that we playested as soon as we could. We changed a lot of mechanics during this project to make sure it was fair and enjoyable. [image playtest]
+I would say that at least 35% of our time has been spent on balancing only ; though there is no proper level I would consider the balancing and board creation as Level Design. Our plateau is made out of 3 parts, the first part is Mars where you can build infrastructures [3D printed models] and extract resources [colored wooden cubes]. The second part is space around and between the two planets where the ships are placed. And the third part is the Earth with companies that can be bought and flags [also in 3D] that can be planted on them.
+There was a huge amount of variables that had to be constantly tweaked as playtests gave results, we paid a special intention to the snowball effect, and the time duration to keep the experience as entertaining as possible.
+How we designed it, our intentions.
+At first we started building a game about scientists in a post-apocalyptic world. They would build mechas in order to destroy the other scientists, this project was abandoned after some weeks since the main mechanics were not working and did not provide a good experience for the players. [image d’un artwork du vieux jeu] The second idea was Mission Hermes, we wanted to keep the strategic aspect of our previous game, with a grid system (inspired from the board game Terraforming Mars) and maybe units and resource management (inspired from the video game Offworld Trading Company). We came with the idea of separating the construction and extraction phase from the more economic gameplay. We then ended up with two distinguished planets on the same board.
+On Mars you build and extract, you fight your opponents by blocking roads or stealing mining deposits. [image de Mars] On Earth you fight them by buying market shares from big companies that give you special bonuses. [image de la Terre] We wanted to keep both planets round to immerse the players (even though they are not really round in real life). For this purpose we used an azimuthal equidistant projection on Earth so we could see all the continents at the same time. [image d’une projection azimutale équidistante] We used the different countries to place our shares on the map and create a mini game. All shares are linked to other shares and are situated on different continent. Each continent offers different kinds of bonuses (some related to the extraction, others to the buildings and so on...). The players have multiple choices, they can buy a share with money or a predefined number of raw resources, he can focus his investment on a same continent to specialize his bonus or he can create a chain of shares around the globe to have a variety of different bonuses. At the end of the game points are not only based on the number of shares bought but also on their position on the map, holding a whole continent or having a long chain of shares will earn you more points than just having a lot of shares randomly placed on the word. The player with the more points when all shares are bought wins the game. Their is a very important game mechanic placed on Earth : the Stock Exchange. [image de la Bourse] Each time a player sells a resource its price goes down, if no one sells a resource its price goes up. A clever “Subway Line” mechanic allow the ressources to go up or down based on other ressources prices. [image schéma de la Subway Line]
+What did we learned with this project.
+Mission Hermes was a great game to work on, we would have continue to balance some mechanics if we had more time but the final product was worth it. We build up a work routine with regular work sessions and meetings [it was not a full time-project, we all had classes to attend to on the side], toward the end the team had no communication issues left, and the work was being done on time. We grew in maturity as a team but also as individuals, sharing our problems instead of stacking them, motivating and encouraging each others and spending more time to plan our production instead of going headlong toward the production. For the first time we worked with users feedbacks and the UI/UX of a game. For example we chose to 3D print a lot of parts instead of just having cardboard tokens for our buildings and ships and it was a game changer for players’s immersion. [image des pièce 3D] Another good example is that some players were sometimes lost about who’s turn it was to play, so we used a token mechanic where each player had to flip its token so everyone knew who’s turn it was. [image des jetons de tour de jeu]
+Notes on the final product.
+I am writing these lines two years after the creation of this game, looking back at it I believe that complexity was its main weakness. Even though it was not meant for casual players, some game mechanics have been piled up when the smart thing to do at the end would have been to simplify the gameplay while keeping all the fun possibilities. Still it was entertaining to play and our teachers at the time Pascal Bernard and Leonidas Vesperini liked it a lot !
+
+________________________________________
+
+BRUTALIST (2018 - 2019) :
+The Team in Alphabetical Order
+Dartois Antonin
+Droz-Bartholet Maxence
+Goldgrab Simon
+Lataste Emmanuel
+Sandro Ricou Mael
+Sum up what is it about and how it basically works.
+Brutalist is a RPG happening in the near future. Sweden faces massive waves of immigration and decides, with the support of Russia, to invade Finland and Norway. Following the invasion, the two nations fall, but Stockholm is completely bombed.
+The players embody elite soldiers serving the new regime. Their role is to uphold the will of the government, to suppress the opponents, and to maintain an iron grip on the city, which has just been rebuilt. Over the course of the adventure, they will encounter moral dilemmas that may push them to rebel, will their discipline contain their humanity any longer?
+My role in this project.
+Brutalist was a five days project, we had four days to create it and and one last day to present it. We had to create Brutalist, design and prepare a presentation and of course playtest it. For my part I started gathering as many references as I could as soon as we finished designing the main world (getting a basic idea of the universe, rules and gameplay). The references helped us settle our word. I gathered  movies, books, articles and images. We wanted a lot of graphical references to create an immersive universe and stimulate the players imagination, also we were not working with game artists so concept arts were not an option. We then had a meeting during which we settled our main game mechanics and the gameplay we wanted. After that some continued working on the gameplay when I and another game designer started building the world map. I mainly worked on the storyline, the universe and the different factions. When we were finished designing the main story and world map we started working on the presentation.
+How we designed it, our intentions.
+Our main intentions were to create a RPG where the players could freely evolve in a huge city and would be allowed to interact and loot everything they could. We all loved the cyberpunk universe with human augmentations and biotechnologies so we decided to make this sci-fi aspect the core of our gameplay. Our main references were Gattaca, Equilibrium, Repo Men, Blade Runner, 1984 and Altered Carbon.
+We wanted our plot and universe to be realistic and consistent so we studied cities maps, population repartition and the diverse buildings types you can find in huge cities around the world. We had main factions we needed to place on the map, but as our work advanced we found new ideas and created a couple new ones. The suburbs are logically linked to each others and the economic activity is based on the inhabitants of each area. [image de la carte] Since the story takes place in a dictatorial state we created propaganda posters as well as political slogans. [image d’un poster]
+Gameplay wise we made lists of items, guns, vehicles, characters, compagnies, buildings and area descriptions to serve as a solid base for a first scenario. We created a combat and an action resolution system as well as caracterial traits for the player. We also created a simple character sheet to write down everything a player needs during a game. [image la fiche de joueur] Gladly we playtested our game 3 or 4 times before our jury, we changed some minor details but mostly we had a lot to tell and our enthusiasm was up during the presentation, they could see how much we enjoyed designing and playing this universe, it carried us into an amazing adventure and we all have great memories about it !
+What did we learn on this project.
+We knew we had very few time when the project started so the workload repartition was crucial. It went out smoothly and two days later we playtested for the first time. We wrote a lot, the redaction took us some time, we had to be in coordination and always inform others when the story was edited to avoid any contradictions that would jeopardize the heart of the project. For the documents presentation worked with InDesign and Illustrator.
+Notes on the final product.
+Brualist offers an intriguing and cruel world in which we played for tens of hours. The all team was great, and we all enjoyed playing some games altogether months after the end of the project.
+
+________________________________________
+
+CAL.CIUM (2018 - 2019) :
+The Team in Alphabetical Order
+Game Designers :
+Allaire Kilian
+Dartois Antonin
+Sampat Jay
+
+Game Artists 
+Bouvier Pietro:
+Boyer Keawe
+Soncini Ambre
+With the participation of ArKaDaTa
+
+Sum up what is it about and how it basically works.
+CAL.CIUM is a 2D pixel art game offering a linear beat them all experience in a world governed by machines. Humans are extinct and their bones serve as enhancements for robotic skeletons. When crushed the harvested powder has the effect of a powerful drug when consumed by androids. The player embodies Bjorn, the spirit of a human warrior awakened by a slave robot, a miner in a bone mine. He allies with the slave and promises to get him out of slavery if he accepts to help him find his body.
+Through the maze of a prison mine, the player will have to face, with the help of his fists, the various obstacles that separate him from his body. Will he be able to defeat Kaiser, the most powerful robot in this mechanized society?
+My role in this project.
+On this project I worked as Game and Level Designer as well as a Sound Designer. I designed the levels, the enemies locations, the difficulty curve. I designed the enemies, the dialogues, the storyline, the ingame dialogue, score system and sounds.
+How we designed it, our intentions.
+Our intentions were to create a violent, face paced, absurd gameplay. The risk was to create crude violence that would not be appreciated by a large audience. The absurd was a way to put into perspective the violent aspect of our game. We quickly settled our universe and basic gameplay with the whole team. Then the game artist created concept arts, we provided graphic references we liked and we worked on the storyline.
+Once everything was validated we asked the game artists to work on assets we were sure to keep, like the main character and some enemies. We playtested our main mechanics and some enemies, then the pre-prod was then over.
+During the production phase Kilian worked mainly on shadders and did most of the graphic integration, Jay worked on the gameplay programmation. When I finished working on the storyline, dialogues, gameplay and sounds I started working inside the Unity engine to help. We were continuously playtesting our mechanics and the balancing of the game, and we reduced the scope of the number of levels. We soon realized that it was too much (we went from 5/6 levels down to 3 including the boss room.
+What did we learn on this project.
+This was the first project with a great programmation workload. Not only did we design a game but we also had to learn programming at the same time. hopefully we had the constraints in mind when designing the mechanics and artwork so we did not cut a lot of features, thanks to Kilian all the art was integrated on time. There was only one part of the production that we did not do ourselves because we were not qualified to do it, and it was the music. Thanks to a friend of mine, Bernard Célia, a Game Artist herself, I contacted ArKaDaTa who did an amazing job on the music in a little time.
+Notes on the final product.
+CAL.CIUM is the first complete game we worked on and we loved the result. The game has a beginning, a middle and an end, there is a storyline and there even is an endless mode accessible from the menu. The art is great and the game is localized in french and in english.
+Since it was a School Project we could compare it with other games and we had the chance to receive a lot of feedbacks from our colleagues and teachers. All of them liked it and gave constructive advice and opinion about their experience. The final jury was an oral presentation in english with a visual support but the best part was the test session. We had 3 computers running our game and most of the time we were briefing people before they would play, but sometimes one guy would just sit and play through the all game, it was an amazing feeling to see that happen.
+
+________________________________________
+
+STONEHENGE (2019 - 2020) :
+The Team in Alphabetical Order
+Dartois Antonin
+Goldgrab Simon
+Roussel Quentin
+Sum up what is it about and how it basically works.
+In Stonehenge the player guides the constellations using menhirs in order to recreate the music of his ancestors. This first prototype offers to solve a puzzle based on the displacement and rotation of three totems [menhirs] about fifteen centimeters high. When looking up, the player sees the night sky covered with stars. A quiet melody accompanies and immerses him along his journey.
+My role in this project.
+I worked as a Game and Level Designer on this project. I proposed various game mechanics and environments for the experience.
+How we designed it, our intentions.
+Quentin Roussel was the “vision bearer”. The main idea was to play with menhirs in a room to create a melody. Initially the menhirs were designed to be about 1 meter tall and with a certain weight. The space would have been a dark room of 4 by 4 meters.
+Based on this first thought we wanted to make the experience as immersive as possible. So there would be no information given to the players and no particular objective. The only input would be moving the menhirs inside the space to create a music. The placement and rotation of the menhirs would influence various sound parameters.
+We started with the idea of using wiimotes inside the top of each menhir, the lasers were pointing toward the ceiling where a captor was taped. But we had to much trouble using the wii technology in unity and we kind of lost 3 days of production. The new idea that we came up with was video recognition. Quentin managed to find a Unity plugin called Vuforia that allowed us to detect images inside of Unity. While he was doing that, Simon and I started iterating on the gameplay. We also made some tests with a projector and realized it was not fit for our installation. Initially the projector was supposed to be in the middle of the room, pointing toward the ceiling, but now we could not since we had a camera instead of an infrared sensor. Moreover, the projector had to be outside the 4 by 4 meters zone or the image would be too small. So, we redesigned our experience based on technical and material constraints.
+The final version of our project proposes a puzzle game. You are surrounded by 3 dark walls, one is open so the projector can display the image on top of you. The projection is a starry sky. You face a 30 by 30 centimeters board on which 3 wooden totems (initially menhirs) are placed. The music and nature sounds are surrounding you. Now the goal is to move the totems according to the tracks they are on, sometimes you have to rotate them. In the end they have to recover a particular position and rotation on the board. While doing so the stars are moving on top of your head, creating various shapes and constellations. Finally, when all the totems are in place, the stars are linking themselves to each other and create a constellation. A new melody can be heard.
+Each time the stars positions are random and so is the final constellation design, only the puzzle game stays the same. You can export a PNG of your constellation when finished.
+What did we learn on this project.
+We had a lot of technical and hardware issues on this project, so we had to adapt quickly using certain principles of the Agile Method. We spent a fair share of our time planning what features to develop or what structures to build first according to their potential use and, multiple times we had to think of ways to reuse them in our new concept. For example, when we mounted the final structure we used a menhir that had been built for the original project, as a stand for the camera. It added immersion and we did not built this furniture for nothing.
+Notes on the final product.
+In its actual state the gameplay is interesting and the setup is immersive, the combination offers a nice and pleasant experience. We are thinking of continuing developing this project. We would like to add real constellations and use the experience as a learning interface, an immersive “serious” game to discover the stars.
+
+________________________________________
+
+LD Solo
+The Team in Alphabetical Order
+Sum up what is it about and how it basically works.
+My role in this project.
+How we designed it, our intentions, our references.
+What did we learn on this project.
+Notes on the final product.
+
+BMT
+The Team in Alphabetical Order
+Sum up what is it about and how it basically works.
+My role in this project.
+How we designed it, our intentions, our references.
+What did we learn on this project.
+Notes on the final product.
+
+LD Multi
+The Team in Alphabetical Order
+Sum up what is it about and how it basically works.
+My role in this project.
+How we designed it, our intentions, our references.
+What did we learn on this project.
+Notes on the final product.
+
+Twin Fortress
+The Team in Alphabetical Order
+Sum up what is it about and how it basically works.
+My role in this project.
+How we designed it, our intentions, our references.
+What did we learn on this project.
+Notes on the final product.
+

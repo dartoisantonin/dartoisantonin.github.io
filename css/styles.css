@@ -6,15 +6,17 @@ body {
   font-style:normal;
   margin: 0px;
   padding: 0px;
+  padding-top: 65px;
 }
 
 /* navBar */
 nav {
   width: 100%;
-  background-color: #424558;
+  background-color: #99B898;
   position: fixed;
   top: 0;
   width: 100%;
+  z-index: 500;
 }
 
 nav > ul {
@@ -70,7 +72,7 @@ nav li:hover .submenu {
 }
 
 .submenu li {
-  background-color: #424558;
+  background-color: #99B898;
 }
 
 .submenu li a {
@@ -83,7 +85,7 @@ nav li:hover .submenu {
   background-color: #686d8b;
 }
 
-.active a {background-color: #4CAF50;}
+.active a {background-color: #2A363B;}
 
 /* Responsive */
 
@@ -101,3 +103,18 @@ ul.topnav li a {
 .leftside {
   float:right
 }
+
+/* Bordures */
+p.round1 {
+  border-radius: 5px;
+}
+
+p.round2 {
+  border-radius: 8px;
+}
+
+p.round3 {
+  border-radius: 12px;
+}
+
+.centered { background: #FFF; margin: 0 auto; width: 80%; }
