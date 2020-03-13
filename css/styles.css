@@ -1,7 +1,9 @@
 /* FEUILLE DE STYLE */
 
 body {
-  font-family: 'Source code pro', Calibri, serif;
+  font-family: 'open_sanslight', Arial, sans-serif;
+  font-weight:normal;
+  font-style:normal;
   margin: 0px;
   padding: 0px;
 }
@@ -14,6 +16,7 @@ nav {
 nav > ul {
   margin: 0px;
   padding: 0px;
+  position: sticky;
 }
 
 nav > ul::after {
@@ -25,15 +28,23 @@ nav > ul::after {
 nav > ul > li {
   float: left;
   position: relative;
+  list-style-type: none;
 }
 
+/* Font mainmenu */
 nav > ul > li > a {
   padding: 20px 30px;
   color: #FFF;
 }
 
-nav > li {
-  list-style-type: none;
+nav > ul >li:hover a {
+  padding: 15px 30px 20px 30px;
+}
+
+nav > ul > li:hover {
+  border-top: 5px solid rgb(104,109,139);
+  background-color: RGBa(104,109,139, 0.15);
+  color: black;
 }
 
 .submenu {
@@ -46,6 +57,7 @@ nav a {
 }
 
 nav li:hover .submenu {
+  list-style-type: none;
   display: inline-block;
   position: absolute;
   top: 100%;
@@ -55,12 +67,34 @@ nav li:hover .submenu {
 }
 
 .submenu li {
-  border-bottom: 1px solid #CCC;
+  background-color: #424558;
 }
 
 .submenu li a {
+  color: white;
   padding: 15px 30px;
   font-size: 13px;
-  color: #222538;
   width: 270px;
+}
+.submenu li a:hover {
+  background-color: #686d8b;
+}
+
+.active a {background-color: #4CAF50;}
+
+/* Responsive */
+
+ul.topnav li a {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 600px) {
+  ul.topnav li.right, .leftside a,
+  ul.topnav li {float: none;}
+}
+
+.leftside {
+  float:right
 }
