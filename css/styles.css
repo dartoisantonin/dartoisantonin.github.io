@@ -47,6 +47,9 @@ nav > ul >li:hover a {
 
 nav > ul > li:hover {
   border-top: 5px solid rgb(104,109,139);
+  /*border-top: 5px solid #E84A5F;*/
+  /*border-top: 5px solid #FF847C;*/
+  /*border-top: 5px solid #FECEA8;*/
   background-color: RGBa(104,109,139, 0.15);
   color: black;
 }
@@ -98,6 +101,9 @@ ul.topnav li a {
 @media screen and (max-width: 600px) {
   ul.topnav li.right, .leftside a,
   ul.topnav li {float: none;}
+  nav {
+    position: static;
+  }
 }
 
 .leftside {
